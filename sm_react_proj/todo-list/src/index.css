@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background: linear-gradient(85deg,#ee9b4d,#77b6e0);
+  font-size: 1.1rem;
+  font-family: "Verdana", Geneva, sans-serif;
+  height: 100%;
+}
